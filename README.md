@@ -6,7 +6,7 @@
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/rba-community/SA-CortexXDRDevices)
 [![Splunkbase App](https://img.shields.io/badge/Splunkbase-SA--CortexXDRDevices-blue)](https://splunkbase.splunk.com/app/#TODO)
 [![Splunk ES Compatibility](https://img.shields.io/badge/Splunk%20ES%20Compatibility-7.x%20|%206.x-success)](https://splunkbase.splunk.com/app/263)
-[![XDR Endpoint App Compatibility](https://img.shields.io/badge/Palo%20Alto%20TA%20Compatibility->=1.0.1-success)](https://splunkbase.splunk.com/app/6396)
+[![XDR Endpoint TA Compatibility](https://img.shields.io/badge/XDR%20Endpoint%20TA%20Compatibility->=1.0.1-success)](https://splunkbase.splunk.com/app/6396)
 ![Splunk Cloud Compatibility](https://img.shields.io/badge/Splunk%20Cloud%20Ready-Victoria%20|%20Classic-informational?logo=splunk)
 [![Author LinkedIn](https://img.shields.io/badge/Author-Dennis%20Morton-blue?logo=linkedin)](https://www.linkedin.com/in/dennis-morton-627632/)
 
