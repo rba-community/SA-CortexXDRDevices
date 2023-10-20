@@ -4,7 +4,7 @@
 [![Docs](https://github.com/rba-community/SA-CortexXDRDevices/actions/workflows/docs.yml/badge.svg)](https://pan-xdr.rba.community/)
 ![Appinspect](https://github.com/rba-community/SA-CortexXDRDevices/actions/workflows/appinspect.yml/badge.svg)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/rba-community/SA-CortexXDRDevices)
-[![Splunkbase App](https://img.shields.io/badge/Splunkbase-SA--CortexXDRDevices-blue)](https://splunkbase.splunk.com/app/#TODO)
+[![Splunkbase App](https://img.shields.io/badge/Splunkbase-SA--CortexXDRDevices-blue)](https://classic.splunkbase.splunk.com/app/7063/)
 [![Splunk ES Compatibility](https://img.shields.io/badge/Splunk%20ES%20Compatibility-7.x%20|%206.x-success)](https://splunkbase.splunk.com/app/263)
 [![XDR Endpoint TA Compatibility](https://img.shields.io/badge/XDR%20Endpoint%20TA%20Compatibility->=1.0.1-success)](https://splunkbase.splunk.com/app/6396)
 ![Splunk Cloud Compatibility](https://img.shields.io/badge/Splunk%20Cloud%20Ready-Victoria%20|%20Classic-informational?logo=splunk)
@@ -26,7 +26,7 @@ Full documentation can be found at [https://pan-xdr.rba.community](https://pan-x
 
 Info | Description
 ------|----------
-SA-CortexXDRDevices | 1.0.0 - [Splunkbase](https://splunkbase.splunk.com/app/#TODO) \| [GitHub](https://github.com/rba-community/SA-CortexXDRDevices/releases)
+SA-CortexXDRDevices | 1.0.0 - [Splunkbase](https://classic.splunkbase.splunk.com/app/7063/) \| [GitHub](https://github.com/rba-community/SA-CortexXDRDevices/releases)
 Splunk Enterprise Security Version (Required) | [7.x \| 6.x](https://splunkbase.splunk.com/app/263)
 Palo Alto Cortex XDR Endpoint Retriever (Required) | [>=1.0.1](https://splunkbase.splunk.com/app/6396)
 Add-on has a web UI | No, this add-on does not contain views.
